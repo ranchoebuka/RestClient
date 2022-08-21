@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientLibrary", "RestClientLibrary\RestClientLibrary.csproj", "{13A10128-70B4-4813-8DC2-49646D400F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientLibraryTester", "RestClientLibraryTester\RestClientLibraryTester.csproj", "{C28AAEC7-07DE-4A33-A750-85B46C815BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A10128-70B4-4813-8DC2-49646D400F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A10128-70B4-4813-8DC2-49646D400F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A10128-70B4-4813-8DC2-49646D400F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A10128-70B4-4813-8DC2-49646D400F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28AAEC7-07DE-4A33-A750-85B46C815BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28AAEC7-07DE-4A33-A750-85B46C815BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28AAEC7-07DE-4A33-A750-85B46C815BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28AAEC7-07DE-4A33-A750-85B46C815BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3289E1-6854-45E1-920F-BC07380B038C}
+	EndGlobalSection
+EndGlobal
